@@ -75,5 +75,13 @@ p{
     border-color: #DA4E47;
     border-image-slice:0%;
     
-    
+
 }
+footer h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Prata', serif;
+    text-align: :center;
+}
+
